@@ -1,5 +1,5 @@
 # Mordan's Christmas Minimod
-Mordan’s Christmas Minimod for oBG2 from Spellhold Studios.
+Mordan’s Christmas Minimod for oBG2 from Spellhold Studios.  All help appreciated in converting this to compatibility with BG2EE and EET!
 
 Quoth the Spellhold Studios page:
 
